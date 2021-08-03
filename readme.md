@@ -12,4 +12,4 @@ npm:
 
 ## Proyecto Finalizado:
 
-![example](https://github.com/maximopeoficiales/react-native-flex-box/scrrenshots/proyect.png)
+![example](https://github.com/maximopeoficiales/react-native-flex-box/blob/main/screenshots/proyect.png?raw=true)
